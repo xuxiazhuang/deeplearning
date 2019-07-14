@@ -1,4 +1,3 @@
 
-# deeplearning
-# fastai_machinelearning
+# fast ai deeplearning
 
